@@ -6,5 +6,5 @@
 - 😄 Pronome:ela/dela
 - 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samara-Alves&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samara-Alves&layout=compact)](https://github.com/Samara-Alves/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samara-Alves&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samara-Alves&layout=compact&theme=cobalt)](https://github.com/Samara-Alves/github-readme-stats)
