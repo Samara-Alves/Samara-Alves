@@ -2,7 +2,6 @@
 
 
 - 🌱 Estudante Web Full Stack Junior (Generation Brasil);
-- 📫 Contate-me:samara_alves28@hotmail.com;
 -  🔭 Atualmente estou trabalhando nesta página;
 - 😄 Pronomes: Ela/dela/She;
 - ⚡ Curiosidade: Gosto de viajar e conhecer outras culturas.
