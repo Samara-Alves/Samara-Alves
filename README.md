@@ -10,14 +10,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samara-Alves&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samara-Alves&layout=compact&theme=cobalt)](https://github.com/Samara-Alves/github-readme-stats)
 </div>
-  
-  ### Vamos nos conectar 💬  
-  <div>
-  
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samara-alves-42363a215/)
-      [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saalves28?utm_medium=copy_link)
-</div>
-
+ 
    
    ### Tecnologia e ferramentas que uso 💻
                    
@@ -34,6 +27,5 @@
        
   ##
   
-   ![Profile views](https://gpvc.arturio.dev/Samara-Alves)  
   
    <img align="flex-start" alt="gif" height="130" widht="100" src="https://media.giphy.com/media/12kFpziiPAVYTC/giphy.gif">
