@@ -1,15 +1,14 @@
-# Olá, eu sou a Samara Alves.
+# Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h2>
 
-
+ Prazer, meu nome é Samara Alves.
 - 🌱 Desenvolvedora Web Full Stack Java Jr (Generation Brasil);
 - 😄 Pronomes: Ela/dela/She;
 - ⚡ Curiosidade: Amo viajar e pizza 🍕.
-
 <div>
+<br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samara-Alves&show_icons=true&theme=cobalt) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samara-Alves&layout=compact&theme=cobalt)](https://github.com/Samara-Alves/github-readme-stats)
-</div>
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samara-Alves&layout=compact&theme=cobalt)](https://github.com/Samara-Alves/github-readme-stats)
+</div> 
    
    ### Tecnologia e ferramentas que uso 💻
                    
