@@ -1,6 +1,6 @@
 # Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h2>
 
- Prazer, meu nome é Samara Alves.
+ ### Prazer, meu nome é Samara Alves.
 - 🌱 Desenvolvedora Web Full Stack Java Jr (Generation Brasil);
 - 😄 Pronomes: Ela/dela/She;
 - ⚡ Curiosidade: Amo viajar e pizza 🍕.
