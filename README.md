@@ -1,9 +1,7 @@
 # Hello, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h2>
 
  ### Meu nome é Samara Alves.
-- 🌱 Atualmente estou aprendendo: Javascript.
-- 😄 Pronomes: Ela/dela/She;
-- ⚡ Curiosidade: eu ❤️ viajar, 🍕 e 🐶.
+
 <div>
 <br>
 
